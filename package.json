@@ -35,7 +35,7 @@
     "@types/node": "^24.10.2",
     "@types/react": "^19.2.6",
     "@types/react-dom": "^19.2.2",
-    "@typescript-eslint/parser": "^8.49.0",
+    "@typescript-eslint/parser": "^8.50.1",
     "eslint": "^9.39.1",
     "eslint-config-next": "16.0.8",
     "eslint-config-prettier": "^10.1.8",
