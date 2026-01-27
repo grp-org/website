@@ -24,7 +24,7 @@
     "radix-ui": "^1.4.3",
     "react": "^19.2.3",
     "react-day-picker": "^9.13.0",
-    "react-dom": "^19.2.3",
+    "react-dom": "^19.2.4",
     "sharp": "^0.34.5",
     "tailwind-merge": "^3.4.0",
     "tailwindcss-animate": "^1.0.7"
